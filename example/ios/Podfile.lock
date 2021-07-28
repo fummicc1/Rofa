@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - rofa (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - rofa (from `.symlinks/plugins/rofa/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  rofa:
+    :path: ".symlinks/plugins/rofa/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 434fef37c0980e73bb6479ef766c45957d4b510c
+  rofa: 3345a0cfdbc5d1281c4e794a6e32d1417594094b
+
+PODFILE CHECKSUM: b3cbc394e6d6c157f8cd75c889d69137852cb6d6
+
+COCOAPODS: 1.10.1
