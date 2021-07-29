@@ -10,6 +10,6 @@
 
 @implementation RofaPlugin
 + (void)registerWithRegistrar:(NSObject<FlutterPluginRegistrar>*)registrar {
-  [SwiftRofaPlugin registerWithRegistrar:registrar];
+    [RofaShareViewController registerWithRegistrar:registrar];
 }
 @end
